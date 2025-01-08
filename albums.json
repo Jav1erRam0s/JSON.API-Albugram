@@ -12,17 +12,7 @@
       "https://i.ibb.co/sQfBX6Q/aguila.jpg",
       "https://i.ibb.co/2hMSFd5/tigre.jpg"
     ],
-    "description": "Este fue solo una parada. En un camino que me parece infinito ❤️.\nNo tengo mas que decir que gracias.",
-    "comments": [
-      {
-        "idUser": "d977df99-5089-4141-9bbc-1cd9289f1398",
-        "comment": "Gracias por darme ese paseo 🔥"
-      },
-      {
-        "idUser": "e6c3a6fa-1b44-41af-b5d5-e5f2118d16a9",
-        "comment": "Estuvo bueno amigo.\n Hay que volver a hacerlo."
-      }
-    ]
+    "description": "Este fue solo una parada. En un camino que me parece infinito ❤️.\nNo tengo mas que decir que gracias."
   },
   {
     "idAlbum": "1c2b16fb-8218-47cf-aa53-f5020a2e1e85",
@@ -35,7 +25,6 @@
       "https://i.ibb.co/cQ0c9Dd/maradona4.jpg",
       "https://i.ibb.co/hB427Pc/maradona5.jpg"
     ],
-    "description": "",
-    "comments": []
+    "description": ""
   }
 ]
